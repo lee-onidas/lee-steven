@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee</h1>
 <h3 align="center">New Zealand based data scientist and geophysicist</h3>
 
-- 🔭 I’m currently working on [Smackbang](https://smackbang.herokuapp.com/)
+- 🔭 I’m currently working on https://github.com/tehikumedia
 
 - 📫 How to reach me **l.stevennz@gmail.com**
 
